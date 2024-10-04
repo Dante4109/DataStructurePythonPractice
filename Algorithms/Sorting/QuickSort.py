@@ -5,7 +5,6 @@
 # https://www.geeksforgeeks.org/quick-sort/
 # https://neetcode.io/courses/dsa-for-beginners/12
 
-
 def quickSort(arr: list[int], s: int, e: int) -> list[int]:
     if e - s + 1 <= 1:
         return arr
