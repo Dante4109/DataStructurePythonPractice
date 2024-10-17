@@ -1,6 +1,6 @@
 {
   "python.testing.pytestArgs": [
-    "leetcode"
+    "tests"
   ],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true
