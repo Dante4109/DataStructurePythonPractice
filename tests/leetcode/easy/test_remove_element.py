@@ -1,5 +1,5 @@
 import pytest
-from leetcode.easy import remove_element
+from src.leetcode.easy import remove_element
 
 sol = remove_element.Solution()
 
